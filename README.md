@@ -13,6 +13,23 @@
 - 👔 LinkedIn: [linkedin.com/in/wenzheng-dong](https://linkedin.com/in/wenzheng-dong)  
 - 📚 Google Scholar: [scholar.google.com/citations?user=XXXXX](https://scholar.google.com/citations?user=XXXXX)
 
+
+<p align="left">
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" height="40" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/wenzheng-dong/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-google-scholar-a-web-based-indexing-service-for-scholarly-literature-logo-color-tal-revivo.png" width="40" height="40" alt="Google Scholar"/>
+  </a>
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="40" height="40" alt="GitHub"/>
+  </a>
+</p>
+
+
 ---
 
 ## 🧰 Technical Skills
