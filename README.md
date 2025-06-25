@@ -35,9 +35,9 @@
 
 ## 🚀 Projects
 
-### 🧠 Quantum Noise Spectroscopy Toolkit
-**Description:** A set of Python and Qiskit-based tools to simulate and analyze noise spectra in qubit devices.  
-**Repo:** [`/quantum-noise-spectroscopy`](https://github.com/wenzhengd/quantum-noise-spectroscopy)
+### 🧠 Curvelet Control for Qubit Decoherence Mitigation
+**Description:** A geometric-wavelet hybrid framework for smooth and robust quantum control.  
+**Repo:** [`/Curve-Wavelet-optimal-quantum-control`](https://github.com/wenzhengd/Curvelet_PublicView)
 
 ### 🔬 Compressed Quantum State Tomography
 **Description:** Implements compressed sensing for efficient quantum state estimation. Includes benchmark examples for 1–4 qubits.  
