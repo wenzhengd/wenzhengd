@@ -9,7 +9,7 @@
 
 ## 🔗 Connect with Me
 
-- 📫 Email: [your-email@example.com](mailto:your-email@example.com)  
+- 📫 Email: [wenzheng.dong.quantum@gmail.com](mailto:wenzheng.dong.quantum@gmail.com)  
 - 👔 LinkedIn: [linkedin.com/in/wenzheng-dong](https://linkedin.com/in/wenzheng-dong)  
 - 📚 Google Scholar: [scholar.google.com/citations?user=XXXXX](https://scholar.google.com/citations?user=XXXXX)
 
@@ -38,24 +38,24 @@
 
 ### 🧠 Quantum Noise Spectroscopy Toolkit
 **Description:** A set of Python and Qiskit-based tools to simulate and analyze noise spectra in qubit devices.  
-**Repo:** [`/quantum-noise-spectroscopy`](https://github.com/your-username/quantum-noise-spectroscopy)
+**Repo:** [`/quantum-noise-spectroscopy`](https://github.com/wenzhengd/quantum-noise-spectroscopy)
 
 ### 🔬 Compressed Quantum State Tomography
 **Description:** Implements compressed sensing for efficient quantum state estimation. Includes benchmark examples for 1–4 qubits.  
-**Repo:** [`/compressed-qst`](https://github.com/your-username/compressed-qst)
+**Repo:** [`/compressed-qst`](https://github.com/wenzhengd/compressed-qst)
 
 ### 📉 Decoherence Simulator with Coupled Cluster Expansion
 **Description:** Numerical CCE-based simulation for central spin decoherence, with multi-spin bath environments.  
-**Repo:** [`/central-spin-cce`](https://github.com/your-username/central-spin-cce)
+**Repo:** [`/central-spin-cce`](https://github.com/wenzhengd/central-spin-cce)
 
 ### 📊 Filter Function Framework for Multicolor Noise
 **Description:** Tools for constructing filter functions in quantum control, adaptable to multiband and correlated noise environments.  
-**Repo:** [`/filter-function-control`](https://github.com/your-username/filter-function-control)
+**Repo:** [`/filter-function-control`](https://github.com/wenzhengd/filter-function-control)
 
 ---
 
 ## 📈 GitHub Stats (Optional)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&count_private=true&hide=prs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wenzhengd&show_icons=true&theme=default&count_private=true&hide=prs"/>
 </p>
