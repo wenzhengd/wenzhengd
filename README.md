@@ -18,7 +18,6 @@
 ## 🧰 Technical Skills
 
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Language-Mathematica-informational?style=flat&logo=wolfram&logoColor=white)
 ![](https://img.shields.io/badge/Framework-Qiskit-informational?style=flat&logo=ibm&logoColor=white)
 ![](https://img.shields.io/badge/Framework-PyTorch-informational?style=flat&logo=pytorch&logoColor=white)
