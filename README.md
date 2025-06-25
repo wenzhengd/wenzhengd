@@ -15,23 +15,22 @@
 
 ---
 
-## 🛠️ Technical Skills
+## 🧰 Technical Skills
 
-<p>
-  <img src="https://img.shields.io/badge/gaming-unity-informational?style=flat&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framework-node.js-informational?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB"/>
-  <img src="https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC"/>
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26"/>
-  <img src="https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791"/>
-  <img src="https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57"/>
-  <img src="https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code-JWT-informational?style=flat&logo=JSON%20web%20tokens"/>
-  <img src="https://img.shields.io/badge/Code-GULP-informational?style=flat&logo=gulp&logoColor=white"/>
-</p>
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Language-Mathematica-informational?style=flat&logo=wolfram&logoColor=white)
+![](https://img.shields.io/badge/Framework-Qiskit-informational?style=flat&logo=ibm&logoColor=white)
+![](https://img.shields.io/badge/Framework-PyTorch-informational?style=flat&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/Framework-Numpy/Scipy-informational?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Tool-Matplotlib-informational?style=flat&logo=plotly&logoColor=white)
+![](https://img.shields.io/badge/Tool-LaTeX-informational?style=flat&logo=latex&logoColor=white)
+![](https://img.shields.io/badge/Tool-Git/GitHub-informational?style=flat&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Platform-Linux-informational?style=flat&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/Field-Quantum_Computing-informational?style=flat&logo=quarkus&logoColor=white)
+![](https://img.shields.io/badge/Field-Noise_Modeling-informational?style=flat&logo=acm&logoColor=white)
+![](https://img.shields.io/badge/Field-Quantum_Control-informational?style=flat&logo=reactivex&logoColor=white)
+![](https://img.shields.io/badge/Field-Scientific_Computing-informational?style=flat&logo=python&logoColor=white)
 
 ---
 
