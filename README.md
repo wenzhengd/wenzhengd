@@ -54,7 +54,7 @@
 
 ---
 
-## 📈 GitHub Stats (Optional)
+## 📈 GitHub Stats (Public)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wenzhengd&show_icons=true&theme=default&count_private=true&hide=prs"/>
