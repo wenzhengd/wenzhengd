@@ -13,17 +13,6 @@
 - 👔 LinkedIn: [linkedin.com/in/wenzheng-dong](https://linkedin.com/in/wenzheng-dong)  
 - 📚 Google Scholar: [scholar.google.com/citations?user=XXXXX](https://scholar.google.com/citations?user=XXXXX)
 
-
-<p align="left">
-  <a href="mailto:wenzheng.dong.quantum@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" height="40" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/wenzheng-dong/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40" alt="LinkedIn"/>
-  </a>
-</p>
-
-
 ---
 
 ## 🧰 Technical Skills
