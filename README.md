@@ -39,9 +39,9 @@
 **Description:** A geometric-wavelet hybrid framework for smooth and robust quantum control.  
 **Repo:** [`/Curve-Wavelet-optimal-quantum-control`](https://github.com/wenzhengd/Curvelet_PublicView)
 
-### 🔬 Compressed Quantum State Tomography
-**Description:** Implements compressed sensing for efficient quantum state estimation. Includes benchmark examples for 1–4 qubits.  
-**Repo:** [`/compressed-qst`](https://github.com/wenzhengd/compressed-qst)
+### 🔬 DIgital Spectroscopy & COrrection of Circuit noise (DISCO)
+**Description:** Resource-efficient,  Noise-Aware Quantum Control via Control-Adapted Spectroscopy.  
+**Repo:** [`/DISCO`](https://github.com/wenzhengd/Disco_PublicView)
 
 ### 📉 Decoherence Simulator with Coupled Cluster Expansion
 **Description:** Numerical CCE-based simulation for central spin decoherence, with multi-spin bath environments.  
