@@ -43,13 +43,9 @@
 **Description:** Resource-efficient,  Noise-Aware Quantum Control via Control-Adapted Spectroscopy.  
 **Repo:** [`/DISCO`](https://github.com/wenzhengd/Disco_PublicView)
 
-### 📉 Decoherence Simulator with Coupled Cluster Expansion
-**Description:** Numerical CCE-based simulation for central spin decoherence, with multi-spin bath environments.  
-**Repo:** [`/central-spin-cce`](https://github.com/wenzhengd/central-spin-cce)
-
-### 📊 Filter Function Framework for Multicolor Noise
-**Description:** Tools for constructing filter functions in quantum control, adaptable to multiband and correlated noise environments.  
-**Repo:** [`/filter-function-control`](https://github.com/wenzhengd/filter-function-control)
+### 📉 MIN3OS: Model-Informed Neural-Network Noise Optimization Scheme
+**Description:** A framework that combines machine learning — particularly neural networks — with physics-informed models to characterize and control quantum noise in open quantum systems.
+**Repo:** [`/MIN3OS`](https://github.com/wenzhengd/MIN3OS_PublicView/blob/main/README.md)
 
 ---
 
