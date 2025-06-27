@@ -37,7 +37,7 @@
 
 ### 🧠 Curvelet Control for Qubit Decoherence Mitigation
 **Description:** A geometric-wavelet hybrid framework for smooth and robust quantum control.  
-**Repo:** [`/Curve-Wavelet-optimal-quantum-control`](https://github.com/wenzhengd/Curvelet_PublicView)
+**Repo:** [`/Curvelet`](https://github.com/wenzhengd/Curvelet_PublicView)
 
 ### 🔬 DIgital Spectroscopy & COrrection of Circuit noise (DISCO)
 **Description:** Resource-efficient,  Noise-Aware Quantum Control via Control-Adapted Spectroscopy.  
