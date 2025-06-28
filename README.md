@@ -45,7 +45,7 @@
 
 ### 📉 MIN3OS: Model-Informed Neural-Network Noise Optimization Scheme
 **Description:** A framework that combines machine learning — particularly neural networks — with physics-informed models to characterize and control quantum noise in open quantum systems.
-**Repo:** [`/MIN3OS`](https://github.com/wenzhengd/MIN3OS_PublicView/blob/main/README.md)
+**Repo:** [`/MIN3OS`](https://github.com/wenzhengd/MIN3OS_PublicView)
 
 ---
 
