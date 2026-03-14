@@ -35,6 +35,10 @@
 
 ## 🚀 Projects
 
+### 🤖 Reinforcement Learning improved Quantum Error Correction Code
+**Description:** Use RL to learn various noise (including correlated noise) in QEC circuit and optimize the control to migitate logical error. 
+**Repo:** [`/RL_QEC`]([https://github.com/wenzhengd/Curvelet_PublicView](https://github.com/wenzhengd/RL_optimized_QEC))
+
 ### 🧠 Curvelet Control for Qubit Decoherence Mitigation
 **Description:** A geometric-wavelet hybrid framework for smooth and robust quantum control.  
 **Repo:** [`/Curvelet`](https://github.com/wenzhengd/Curvelet_PublicView)
